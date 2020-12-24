@@ -1,0 +1,5 @@
+﻿  03_클래스템플릿.cpp
+C:\Users\osm96\Desktop\cppsource\0528\0528\03_클래스템플릿.cpp(18,1): error C3863: 배열 형식 'int *[10]'은(는) 할당할 수 없습니다.
+C:\Users\osm96\Desktop\cppsource\0528\0528\03_클래스템플릿.cpp(21,1): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+C:\Users\osm96\Desktop\cppsource\0528\0528\03_클래스템플릿.cpp(26,1): error C2440: '=': 'int'에서 'int *'(으)로 변환할 수 없습니다.
+C:\Users\osm96\Desktop\cppsource\0528\0528\03_클래스템플릿.cpp(26,15): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.

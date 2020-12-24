@@ -1,0 +1,4 @@
+﻿  02_소스.cpp
+C:\Users\osm96\source\repos\0508\0508\02_소스.cpp(36,12): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\osm96\source\repos\0508\0508\02_소스.cpp(43,19): error C2660: 'CA::GetAge': 함수는 0개의 인수를 사용하지 않습니다.
+C:\Users\osm96\source\repos\0508\0508\02_소스.cpp(29,7): message : 'CA::GetAge' 선언을 참조하십시오.

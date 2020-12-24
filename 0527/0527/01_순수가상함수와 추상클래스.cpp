@@ -1,0 +1,1 @@
+//01_순수가상함수와 추상클래스#include <iostream>using namespace std;class Animal{public:	//순수가상함수 (추상메서드)	virtual void Sound() const  = 0{ 		cout << "............." << endl; 	}};//부모의 추성메서드를 재정의하지 않으면 자식도 추상클래스가 된다.class Dog : public Animal{public:	void Sound() const {		cout << "멍멍!!!" << endl;	}};int main(){		Animal* p = new Dog;	p->Sound();	delete p;	return 0;}
